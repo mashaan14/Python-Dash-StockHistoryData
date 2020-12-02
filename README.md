@@ -36,9 +36,8 @@ from dash.dependencies import Input, Output
 
 Run the code in Python, then open this address (http://127.0.0.1:8050/) in your browser to play with the web application.
 
-<p align="center">
-  <img width="460" height="300" src=Capture.PNG>
-</p>
+![](Capture.PNG | width=500)
+
 
 ## Disclaimer
 
