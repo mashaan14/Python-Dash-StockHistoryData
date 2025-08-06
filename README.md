@@ -42,7 +42,3 @@ Run the code in Python, then open this address (http://127.0.0.1:8050/) in your 
 <p align="center">
   <img width="1200" src=Capture.PNG>
 </p>
-
-## Disclaimer
-
-This code was developed for educational purposes only. It is provided as is with no warranty. The stocks' history indicators were copied from TADAWUL website manually, and there's a high chance that I made a mistake while copying the data.
